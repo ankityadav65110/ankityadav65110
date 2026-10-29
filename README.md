@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ankit Yadav 👋
 
-<!--
-**ankityadav65110/ankityadav65110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | BCA Student
 
-Here are some ideas to get you started:
+I'm currently pursuing my BCA and building my skills in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning
+- Python
+- Microsoft Excel
+- SQL
+- Data Analysis
+- Data Visualization
+
+### 🎯 My Goals
+- Improve my problem-solving skills.
+- Work on real-world data analysis projects.
+- Build a strong Data Analyst portfolio.
+- Find an opportunity to grow as a Data Analyst.
+
+### 📂 My Projects
+Coming soon! I'm currently learning and building projects.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/ankityadav65110
+
+---
+*Learning every day, building step by step.* 🚀
